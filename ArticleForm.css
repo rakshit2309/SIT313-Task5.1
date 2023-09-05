@@ -1,0 +1,57 @@
+.articleHeader h2{
+    /* background-color: aqua; */
+    margin: 10px;
+}
+
+.title{
+    width: 100%;
+}
+.title label{
+    margin: 10px;
+}
+
+.title input{
+    width: 50%;
+}
+
+.Abstract label{
+    display: block;
+    margin: 10px;
+}
+.Abstract input{
+    height: 70px;
+    width: 70%;
+    margin: 10px;
+}
+
+.Article label{
+    margin: 10px;
+    display:block;
+}
+
+.Article textarea{
+    /* margin: 10px; */
+    width: 70%;
+    height: 200px;
+}
+
+.Tag label{
+    display: block;
+    margin: 10px;
+}
+
+.Tag input{
+    height: 15px;
+    width: 70%;
+    margin: 10px;
+}
+
+.Button{
+    display: block;
+    width: 10%;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
+.Button :hover{
+   background-color: brown;
+}
